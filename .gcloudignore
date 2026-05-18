@@ -1,0 +1,17 @@
+.git
+.gitignore
+.idea
+.claude
+.prettierrc
+notes
+
+node_modules
+package-lock.json
+
+src
+public
+alert.js
+index.js
+
+.DS_Store
+*.log
